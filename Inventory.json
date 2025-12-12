@@ -1,0 +1,1732 @@
+[
+ {
+   "Stock": "280302",
+   "Mileage": 258160,
+   "Year": 2017,
+   "Make": "Buick",
+   "Model": "Enclave",
+   "Body": "SUV",
+   "GenericExtColor": "Brown",
+   "Price": 12900
+ },
+ {
+   "Stock": "383683-W",
+   "Mileage": 58013,
+   "Year": 2021,
+   "Make": "Mercedes-Benz",
+   "Model": "G-Class",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 188800
+ },
+ {
+   "Stock": "393397-W",
+   "Mileage": 111960,
+   "Year": 2024,
+   "Make": "Toyota",
+   "Model": "RAV4",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 36900
+ },
+ {
+   "Stock": "634041",
+   "Mileage": 171155,
+   "Year": 2014,
+   "Make": "Nissan",
+   "Model": "Pathfinder",
+   "Body": "SUV",
+   "GenericExtColor": "Blue",
+   "Price": 21900
+ },
+ {
+   "Stock": "B07927",
+   "Mileage": 156088,
+   "Year": 2020,
+   "Make": "Ford",
+   "Model": "Explorer",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 28900
+ },
+ {
+   "Stock": "25292",
+   "Mileage": 96320,
+   "Year": 2018,
+   "Make": "Hyundai",
+   "Model": "Ioniq Electric",
+   "Body": "Hatchback",
+   "GenericExtColor": "White",
+   "Price": 21900
+ },
+ {
+   "Stock": "284051",
+   "Mileage": 283475,
+   "Year": 2016,
+   "Make": "GMC",
+   "Model": "Yukon",
+   "Body": "SUV",
+   "GenericExtColor": "Red",
+   "Price": 25900
+ },
+ {
+   "Stock": "532043",
+   "Mileage": 173299,
+   "Year": 2018,
+   "Make": "Chevrolet",
+   "Model": "Silverado 1500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 23900
+ },
+ {
+   "Stock": "251150",
+   "Mileage": 151958,
+   "Year": 2019,
+   "Make": "Chevrolet",
+   "Model": "Silverado 3500HD",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 31900
+ },
+ {
+   "Stock": "198385-B",
+   "Mileage": 189244,
+   "Year": 2015,
+   "Make": "BMW",
+   "Model": "4 Series",
+   "Body": "Coupe",
+   "GenericExtColor": "Red",
+   "Price": 16990
+ },
+ {
+   "Stock": "U20559",
+   "Mileage": 158927,
+   "Year": 2016,
+   "Make": "BMW",
+   "Model": "3 Series",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 19900
+ },
+ {
+   "Stock": "562077-S",
+   "Mileage": 176620,
+   "Year": 2014,
+   "Make": "GMC",
+   "Model": "Sierra 1500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Silver",
+   "Price": 21900
+ },
+ {
+   "Stock": "587013-W",
+   "Mileage": 88041,
+   "Year": 2023,
+   "Make": "Jeep",
+   "Model": "Wrangler",
+   "Body": "SUV",
+   "GenericExtColor": "Yellow",
+   "Price": 39900
+ },
+ {
+   "Stock": "41750",
+   "Mileage": 119200,
+   "Year": 2019,
+   "Make": "Hyundai",
+   "Model": "Ioniq Electric",
+   "Body": "Hatchback",
+   "GenericExtColor": "Blue",
+   "Price": 20800
+ },
+ {
+   "Stock": "124613-W",
+   "Mileage": 265248,
+   "Year": 2014,
+   "Make": "Honda",
+   "Model": "CR-V",
+   "Body": "SUV",
+   "GenericExtColor": "Blue",
+   "Price": 13840
+ },
+ {
+   "Stock": "104868",
+   "Mileage": 183279,
+   "Year": 2013,
+   "Make": "Hyundai",
+   "Model": "Santa Fe",
+   "Body": "SUV",
+   "GenericExtColor": "Green",
+   "Price": 13300
+ },
+ {
+   "Stock": "200868",
+   "Mileage": 151382,
+   "Year": 2017,
+   "Make": "Nissan",
+   "Model": "Murano",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 19900
+ },
+ {
+   "Stock": "132477",
+   "Mileage": 335420,
+   "Year": 2009,
+   "Make": "Chevrolet",
+   "Model": "Silverado 3500HD",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 23900
+ },
+ {
+   "Stock": "X59596",
+   "Mileage": 101351,
+   "Year": 2008,
+   "Make": "BMW",
+   "Model": "3 Series",
+   "Body": "Convertible",
+   "GenericExtColor": "Black",
+   "Price": 16900
+ },
+ {
+   "Stock": "Y11886-A",
+   "Mileage": 164980,
+   "Year": 2011,
+   "Make": "MINI",
+   "Model": "Cooper Hardtop",
+   "Body": "Hatchback",
+   "GenericExtColor": "Red",
+   "Price": 11500
+ },
+ {
+   "Stock": "C46266",
+   "Mileage": 117748,
+   "Year": 2018,
+   "Make": "Ford",
+   "Model": "Explorer",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 28500
+ },
+ {
+   "Stock": "182281",
+   "Mileage": 136606,
+   "Year": 2017,
+   "Make": "Hyundai",
+   "Model": "Elantra",
+   "Body": "Sedan",
+   "GenericExtColor": "Black",
+   "Price": 11900
+ },
+ {
+   "Stock": "B57567",
+   "Mileage": 275563,
+   "Year": 2016,
+   "Make": "Ford",
+   "Model": "Super Duty F-350 SRW",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Green",
+   "Price": 33570
+ },
+ {
+   "Stock": "U09330",
+   "Mileage": 152807,
+   "Year": 2016,
+   "Make": "BMW",
+   "Model": "X5",
+   "Body": "SUV",
+   "GenericExtColor": "Blue",
+   "Price": 24900
+ },
+ {
+   "Stock": "050163-W",
+   "Mileage": 72554,
+   "Year": 2023,
+   "Make": "Toyota",
+   "Model": "Corolla Cross",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 32900
+ },
+ {
+   "Stock": "874919",
+   "Mileage": 99829,
+   "Year": 2019,
+   "Make": "Hyundai",
+   "Model": "Tucson",
+   "Body": "SUV",
+   "GenericExtColor": "Red",
+   "Price": 21200
+ },
+ {
+   "Stock": "C66122-W",
+   "Mileage": 141545,
+   "Year": 2023,
+   "Make": "Ford",
+   "Model": "Super Duty F-350 SRW",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Silver",
+   "Price": 66500
+ },
+ {
+   "Stock": "A39969",
+   "Mileage": 340841,
+   "Year": 2011,
+   "Make": "Ford",
+   "Model": "Super Duty F-350 SRW",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Gray",
+   "Price": 18900
+ },
+ {
+   "Stock": "580479-A",
+   "Mileage": 186027,
+   "Year": 2017,
+   "Make": "Jeep",
+   "Model": "Cherokee",
+   "Body": "SUV",
+   "GenericExtColor": "Red",
+   "Price": 17650
+ },
+ {
+   "Stock": "133743-B",
+   "Mileage": 273296,
+   "Year": 2015,
+   "Make": "GMC",
+   "Model": "Yukon",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 26900
+ },
+ {
+   "Stock": "609270",
+   "Mileage": 213071,
+   "Year": 2015,
+   "Make": "Ram",
+   "Model": "1500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 19500
+ },
+ {
+   "Stock": "513515",
+   "Mileage": 146227,
+   "Year": 2018,
+   "Make": "Volkswagen",
+   "Model": "Atlas",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 23600
+ },
+ {
+   "Stock": "A02673-C",
+   "Mileage": 167852,
+   "Year": 2020,
+   "Make": "Ford",
+   "Model": "Escape",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 18750
+ },
+ {
+   "Stock": "202472",
+   "Mileage": 169901,
+   "Year": 2015,
+   "Make": "BMW",
+   "Model": "3 Series",
+   "Body": "Sedan",
+   "GenericExtColor": "Black",
+   "Price": 14250
+ },
+ {
+   "Stock": "158930",
+   "Mileage": 155448,
+   "Year": 2014,
+   "Make": "Hyundai",
+   "Model": "Santa Fe Sport",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 16900
+ },
+ {
+   "Stock": "450790-W",
+   "Mileage": 249020,
+   "Year": 2013,
+   "Make": "Kia",
+   "Model": "Sportage",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 9875
+ },
+ {
+   "Stock": "172649",
+   "Mileage": 111309,
+   "Year": 2015,
+   "Make": "Mazda",
+   "Model": "Mazda3",
+   "Body": "Hatchback",
+   "GenericExtColor": "Black",
+   "Price": 14795
+ },
+ {
+   "Stock": "662509",
+   "Mileage": 155031,
+   "Year": 2016,
+   "Make": "Nissan",
+   "Model": "Pathfinder",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 19050
+ },
+ {
+   "Stock": "111750",
+   "Mileage": 226263,
+   "Year": 2014,
+   "Make": "Ram",
+   "Model": "ProMaster Cargo Van",
+   "Body": "Minivan/Van",
+   "GenericExtColor": "White",
+   "Price": 18300
+ },
+ {
+   "Stock": "186207-W",
+   "Mileage": 69792,
+   "Year": 2023,
+   "Make": "Kia",
+   "Model": "Sportage",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 29900
+ },
+ {
+   "Stock": "52757",
+   "Mileage": 240417,
+   "Year": 2009,
+   "Make": "Audi",
+   "Model": "A3",
+   "Body": "Hatchback",
+   "GenericExtColor": "White",
+   "Price": 8370
+ },
+ {
+   "Stock": "54002",
+   "Mileage": 266941,
+   "Year": 2010,
+   "Make": "Honda",
+   "Model": "Odyssey",
+   "Body": "Minivan/Van",
+   "GenericExtColor": "Blue",
+   "Price": 9412
+ },
+ {
+   "Stock": "63588",
+   "Mileage": 231889,
+   "Year": 2011,
+   "Make": "Toyota",
+   "Model": "4Runner",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 24900
+ },
+ {
+   "Stock": "652051",
+   "Mileage": 182259,
+   "Year": 2015,
+   "Make": "Ram",
+   "Model": "1500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 16840
+ },
+ {
+   "Stock": "9049",
+   "Mileage": 246582,
+   "Year": 2011,
+   "Make": "Volkswagen",
+   "Model": "Jetta Sedan",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 10900
+ },
+ {
+   "Stock": "744394",
+   "Mileage": 179822,
+   "Year": 2012,
+   "Make": "BMW",
+   "Model": "X5",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 13880
+ },
+ {
+   "Stock": "884798-W",
+   "Mileage": 49157,
+   "Year": 2023,
+   "Make": "Kia",
+   "Model": "Soul",
+   "Body": "Hatchback",
+   "GenericExtColor": "Black",
+   "Price": 23800
+ },
+ {
+   "Stock": "121509",
+   "Mileage": 178561,
+   "Year": 2002,
+   "Make": "Pontiac",
+   "Model": "Firebird",
+   "Body": "Convertible",
+   "GenericExtColor": "Blue",
+   "Price": 19900
+ },
+ {
+   "Stock": "Z37269",
+   "Mileage": 207200,
+   "Year": 2007,
+   "Make": "BMW",
+   "Model": "X5",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 12820
+ },
+ {
+   "Stock": "234218-W",
+   "Mileage": 157039,
+   "Year": 2016,
+   "Make": "Jeep",
+   "Model": "Wrangler Unlimited",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 20900
+ },
+ {
+   "Stock": "000526-A",
+   "Mileage": 68701,
+   "Year": 2022,
+   "Make": "Toyota",
+   "Model": "Corolla",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 29900
+ },
+ {
+   "Stock": "659979-A",
+   "Mileage": 191882,
+   "Year": 2019,
+   "Make": "Ram",
+   "Model": "1500 Classic",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Black",
+   "Price": 22900
+ },
+ {
+   "Stock": "Z44562",
+   "Mileage": 180246,
+   "Year": 2007,
+   "Make": "BMW",
+   "Model": "X5",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 12500
+ },
+ {
+   "Stock": "149300-W",
+   "Mileage": 63911,
+   "Year": 2023,
+   "Make": "Kia",
+   "Model": "Sportage",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 29900
+ },
+ {
+   "Stock": "5712",
+   "Mileage": 172256,
+   "Year": 2015,
+   "Make": "Land Rover",
+   "Model": "Range Rover Evoque",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 18888
+ },
+ {
+   "Stock": "608636-W",
+   "Mileage": 141486,
+   "Year": 2020,
+   "Make": "Nissan",
+   "Model": "Pathfinder",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 25090
+ },
+ {
+   "Stock": "132862",
+   "Mileage": 112829,
+   "Year": 2016,
+   "Make": "Nissan",
+   "Model": "Murano",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 19900
+ },
+ {
+   "Stock": "601330-T",
+   "Mileage": 211028,
+   "Year": 2017,
+   "Make": "Mitsubishi",
+   "Model": "Lancer Sportback",
+   "Body": "Hatchback",
+   "GenericExtColor": "Black",
+   "Price": 9900
+ },
+ {
+   "Stock": "216789-A",
+   "Mileage": 111286,
+   "Year": 2015,
+   "Make": "Ford",
+   "Model": "Transit Connect",
+   "Body": "Minivan/Van",
+   "GenericExtColor": "White",
+   "Price": 19500
+ },
+ {
+   "Stock": "315000-W",
+   "Mileage": 12156,
+   "Year": 2024,
+   "Make": "Hyundai",
+   "Model": "Venue",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 24900
+ },
+ {
+   "Stock": "802031-W",
+   "Mileage": 252486,
+   "Year": 2011,
+   "Make": "Acura",
+   "Model": "RDX",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 10900
+ },
+ {
+   "Stock": "223877",
+   "Mileage": 128596,
+   "Year": 2021,
+   "Make": "Volkswagen",
+   "Model": "Atlas Cross Sport",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 31545
+ },
+ {
+   "Stock": "A46233",
+   "Mileage": 184437,
+   "Year": 2019,
+   "Make": "Ford",
+   "Model": "F-150",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Black",
+   "Price": 28900
+ },
+ {
+   "Stock": "815707-A",
+   "Mileage": 79339,
+   "Year": 2018,
+   "Make": "Subaru",
+   "Model": "WRX",
+   "Body": "Sedan",
+   "GenericExtColor": "Red",
+   "Price": 28900
+ },
+ {
+   "Stock": "017990-W",
+   "Mileage": 91027,
+   "Year": 2023,
+   "Make": "Toyota",
+   "Model": "Corolla",
+   "Body": "Sedan",
+   "GenericExtColor": "Silver",
+   "Price": 26990
+ },
+ {
+   "Stock": "133399-T",
+   "Mileage": 148153,
+   "Year": 2018,
+   "Make": "Ram",
+   "Model": "1500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 21900
+ },
+ {
+   "Stock": "223021-W",
+   "Mileage": 68819,
+   "Year": 2023,
+   "Make": "Chevrolet",
+   "Model": "Malibu",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 24999
+ },
+ {
+   "Stock": "517827-W",
+   "Mileage": 16832,
+   "Year": 2025,
+   "Make": "Toyota",
+   "Model": "RAV4",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 39900
+ },
+ {
+   "Stock": "189486-A",
+   "Mileage": 151896,
+   "Year": 2015,
+   "Make": "BMW",
+   "Model": "4 Series",
+   "Body": "Coupe",
+   "GenericExtColor": "Black",
+   "Price": 29900
+ },
+ {
+   "Stock": "3303",
+   "Mileage": 127976,
+   "Year": 2016,
+   "Make": "Audi",
+   "Model": "Q3",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 21900
+ },
+ {
+   "Stock": "800832-B",
+   "Mileage": 203380,
+   "Year": 2012,
+   "Make": "Acura",
+   "Model": "TL",
+   "Body": "Sedan",
+   "GenericExtColor": "Black",
+   "Price": 8900
+ },
+ {
+   "Stock": "331092-A",
+   "Mileage": 68533,
+   "Year": 2015,
+   "Make": "BMW",
+   "Model": "M4",
+   "Body": "Coupe",
+   "GenericExtColor": "Gray",
+   "Price": 50900
+ },
+ {
+   "Stock": "348112-A",
+   "Mileage": 208770,
+   "Year": 2016,
+   "Make": "GMC",
+   "Model": "Acadia",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 14900
+ },
+ {
+   "Stock": "030734-R",
+   "Mileage": 169524,
+   "Year": 2014,
+   "Make": "Mercedes-Benz",
+   "Model": "S-Class",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 34990
+ },
+ {
+   "Stock": "581777",
+   "Mileage": 282739,
+   "Year": 2013,
+   "Make": "Ram",
+   "Model": "1500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Silver",
+   "Price": 15500
+ },
+ {
+   "Stock": "V69522",
+   "Mileage": 166524,
+   "Year": 2017,
+   "Make": "BMW",
+   "Model": "X5",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 24790
+ },
+ {
+   "Stock": "007794-A",
+   "Mileage": 163972,
+   "Year": 2010,
+   "Make": "Honda",
+   "Model": "Civic Cpe",
+   "Body": "Coupe",
+   "GenericExtColor": "Blue",
+   "Price": 9900
+ },
+ {
+   "Stock": "B74737",
+   "Mileage": 280014,
+   "Year": 2008,
+   "Make": "Ford",
+   "Model": "Super Duty F-350 SRW",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 16900
+ },
+ {
+   "Stock": "139409-A",
+   "Mileage": 153957,
+   "Year": 2018,
+   "Make": "Ram",
+   "Model": "ProMaster Cargo Van",
+   "Body": "Minivan/Van",
+   "GenericExtColor": "White",
+   "Price": 35300
+ },
+ {
+   "Stock": "265197-A",
+   "Mileage": 131774,
+   "Year": 2018,
+   "Make": "Jeep",
+   "Model": "Compass",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 18500
+ },
+ {
+   "Stock": "L16478",
+   "Mileage": 139894,
+   "Year": 2017,
+   "Make": "Lincoln",
+   "Model": "MKC",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 18550
+ },
+ {
+   "Stock": "D23067",
+   "Mileage": 281981,
+   "Year": 2015,
+   "Make": "Ford",
+   "Model": "Super Duty F-350 SRW",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 32900
+ },
+ {
+   "Stock": "C38290-W",
+   "Mileage": 119791,
+   "Year": 2023,
+   "Make": "Ford",
+   "Model": "Super Duty F-350 SRW",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Silver",
+   "Price": 69900
+ },
+ {
+   "Stock": "A53163-W",
+   "Mileage": 43954,
+   "Year": 2024,
+   "Make": "Ford",
+   "Model": "Escape",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 34900
+ },
+ {
+   "Stock": "147317",
+   "Mileage": 133752,
+   "Year": 2017,
+   "Make": "Hyundai",
+   "Model": "Elantra",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 14900
+ },
+ {
+   "Stock": "725629",
+   "Mileage": 268968,
+   "Year": 2017,
+   "Make": "Dodge",
+   "Model": "Grand Caravan",
+   "Body": "Minivan/Van",
+   "GenericExtColor": "Black",
+   "Price": 7900
+ },
+ {
+   "Stock": "A00498",
+   "Mileage": 214238,
+   "Year": 2018,
+   "Make": "Ford",
+   "Model": "Explorer",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 19900
+ },
+ {
+   "Stock": "53069",
+   "Mileage": 179037,
+   "Year": 2013,
+   "Make": "Mercedes-Benz",
+   "Model": "GLK-Class",
+   "Body": "Wagon",
+   "GenericExtColor": "Black",
+   "Price": 15900
+ },
+ {
+   "Stock": "210520-W",
+   "Mileage": 143646,
+   "Year": 2018,
+   "Make": "Nissan",
+   "Model": "Qashqai",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 18900
+ },
+ {
+   "Stock": "519037",
+   "Mileage": 157810,
+   "Year": 2016,
+   "Make": "Volkswagen",
+   "Model": "Golf Sportwagon",
+   "Body": "Sedan",
+   "GenericExtColor": "Gray",
+   "Price": 17990
+ },
+ {
+   "Stock": "139326-T",
+   "Mileage": 278961,
+   "Year": 2015,
+   "Make": "Chevrolet",
+   "Model": "Equinox",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 9350
+ },
+ {
+   "Stock": "357676-T",
+   "Mileage": 216995,
+   "Year": 2012,
+   "Make": "Nissan",
+   "Model": "Rogue",
+   "Body": "SUV",
+   "GenericExtColor": "Blue",
+   "Price": 9550
+ },
+ {
+   "Stock": "196670-W",
+   "Mileage": 67281,
+   "Year": 2023,
+   "Make": "Kia",
+   "Model": "Sportage",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 29900
+ },
+ {
+   "Stock": "045107-A",
+   "Mileage": 241559,
+   "Year": 2010,
+   "Make": "Toyota",
+   "Model": "RAV4",
+   "Body": "SUV",
+   "GenericExtColor": "Blue",
+   "Price": 12900
+ },
+ {
+   "Stock": "121401",
+   "Mileage": 90177,
+   "Year": 2022,
+   "Make": "Chevrolet",
+   "Model": "Equinox",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 27900
+ },
+ {
+   "Stock": "872971-A",
+   "Mileage": 108818,
+   "Year": 2016,
+   "Make": "Kia",
+   "Model": "Soul",
+   "Body": "Hatchback",
+   "GenericExtColor": "Silver",
+   "Price": 15900
+ },
+ {
+   "Stock": "C05913-W",
+   "Mileage": 225832,
+   "Year": 2018,
+   "Make": "Ford",
+   "Model": "F-150",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Blue",
+   "Price": 22700
+ },
+ {
+   "Stock": "601559",
+   "Mileage": 94986,
+   "Year": 2022,
+   "Make": "Mitsubishi",
+   "Model": "RVR",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 26600
+ },
+ {
+   "Stock": "A31460",
+   "Mileage": 266199,
+   "Year": 2010,
+   "Make": "Ford",
+   "Model": "Explorer",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 9999
+ },
+ {
+   "Stock": "131078-W",
+   "Mileage": 86817,
+   "Year": 2022,
+   "Make": "Toyota",
+   "Model": "C-HR",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 30365
+ },
+ {
+   "Stock": "374931-C",
+   "Mileage": 84576,
+   "Year": 2022,
+   "Make": "Mercedes-Benz",
+   "Model": "GLC",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 37495
+ },
+ {
+   "Stock": "505264-A",
+   "Mileage": 169352,
+   "Year": 2016,
+   "Make": "Honda",
+   "Model": "Odyssey",
+   "Body": "Minivan/Van",
+   "GenericExtColor": "White",
+   "Price": 26600
+ },
+ {
+   "Stock": "609818-W",
+   "Mileage": 107486,
+   "Year": 2023,
+   "Make": "Dodge",
+   "Model": "Charger",
+   "Body": "Sedan",
+   "GenericExtColor": "Orange",
+   "Price": 33300
+ },
+ {
+   "Stock": "737454-W",
+   "Mileage": 148190,
+   "Year": 2019,
+   "Make": "Hyundai",
+   "Model": "Sonata",
+   "Body": "Sedan",
+   "GenericExtColor": "Blue",
+   "Price": 17900
+ },
+ {
+   "Stock": "B18256-W",
+   "Mileage": 171290,
+   "Year": 2012,
+   "Make": "Ford",
+   "Model": "F-150",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Gray",
+   "Price": 19500
+ },
+ {
+   "Stock": "B06265-C",
+   "Mileage": 82693,
+   "Year": 2018,
+   "Make": "Porsche",
+   "Model": "Macan",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 32900
+ },
+ {
+   "Stock": "C80861-W",
+   "Mileage": 143116,
+   "Year": 2019,
+   "Make": "Ford",
+   "Model": "F-150",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 29900
+ },
+ {
+   "Stock": "183596-A",
+   "Mileage": 160378,
+   "Year": 2022,
+   "Make": "Dodge",
+   "Model": "Durango",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 35900
+ },
+ {
+   "Stock": "121648-A",
+   "Mileage": 64800,
+   "Year": 2015,
+   "Make": "Honda",
+   "Model": "CR-V",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 21900
+ },
+ {
+   "Stock": "415129-A",
+   "Mileage": 182984,
+   "Year": 2018,
+   "Make": "Dodge",
+   "Model": "Durango",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 20400
+ },
+ {
+   "Stock": "705746-A",
+   "Mileage": 198544,
+   "Year": 2019,
+   "Make": "Ram",
+   "Model": "1500 Classic",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Black",
+   "Price": 22900
+ },
+ {
+   "Stock": "418759-A",
+   "Mileage": 232887,
+   "Year": 2014,
+   "Make": "Toyota",
+   "Model": "Sienna",
+   "Body": "Minivan/Van",
+   "GenericExtColor": "Gray",
+   "Price": 19900
+ },
+ {
+   "Stock": "676782-A",
+   "Mileage": 246118,
+   "Year": 2013,
+   "Make": "Dodge",
+   "Model": "Durango",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 18600
+ },
+ {
+   "Stock": "169452-A",
+   "Mileage": 180053,
+   "Year": 2018,
+   "Make": "Ram",
+   "Model": "1500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Black",
+   "Price": 23800
+ },
+ {
+   "Stock": "291593-W",
+   "Mileage": 148034,
+   "Year": 2022,
+   "Make": "Ram",
+   "Model": "3500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Black",
+   "Price": 65900
+ },
+ {
+   "Stock": "438489",
+   "Mileage": 31762,
+   "Year": 2018,
+   "Make": "INFINITI",
+   "Model": "Q50",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 25900
+ },
+ {
+   "Stock": "690835",
+   "Mileage": 97304,
+   "Year": 2019,
+   "Make": "Nissan",
+   "Model": "NV200 Compact Cargo",
+   "Body": "Minivan/Van",
+   "GenericExtColor": "White",
+   "Price": 21900
+ },
+ {
+   "Stock": "126781-A",
+   "Mileage": 122583,
+   "Year": 2020,
+   "Make": "Volkswagen",
+   "Model": "Tiguan",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 25900
+ },
+ {
+   "Stock": "353573-W",
+   "Mileage": 26983,
+   "Year": 2024,
+   "Make": "Nissan",
+   "Model": "Sentra",
+   "Body": "Sedan",
+   "GenericExtColor": "Gray",
+   "Price": 25530
+ },
+ {
+   "Stock": "234053-A",
+   "Mileage": 112634,
+   "Year": 2019,
+   "Make": "Jeep",
+   "Model": "Cherokee",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 23900
+ },
+ {
+   "Stock": "234850-W",
+   "Mileage": 158214,
+   "Year": 2016,
+   "Make": "Jeep",
+   "Model": "Cherokee",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 14000
+ },
+ {
+   "Stock": "248894-A",
+   "Mileage": 151267,
+   "Year": 2022,
+   "Make": "Toyota",
+   "Model": "RAV4",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 29900
+ },
+ {
+   "Stock": "405653-T",
+   "Mileage": 183387,
+   "Year": 2017,
+   "Make": "Hyundai",
+   "Model": "Santa Fe Sport",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 15550
+ },
+ {
+   "Stock": "015076-A",
+   "Mileage": 126876,
+   "Year": 2021,
+   "Make": "Volkswagen",
+   "Model": "Jetta",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 22900
+ },
+ {
+   "Stock": "535580-W",
+   "Mileage": 67934,
+   "Year": 2024,
+   "Make": "Nissan",
+   "Model": "Kicks",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 25290
+ },
+ {
+   "Stock": "440872-A",
+   "Mileage": 70107,
+   "Year": 2022,
+   "Make": "Tesla",
+   "Model": "Model Y",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 46900
+ },
+ {
+   "Stock": "B46306-A",
+   "Mileage": 86735,
+   "Year": 2020,
+   "Make": "Ford",
+   "Model": "Escape",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 25900
+ },
+ {
+   "Stock": "186654-A",
+   "Mileage": 185025,
+   "Year": 2020,
+   "Make": "Ram",
+   "Model": "1500 Classic",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 28900
+ },
+ {
+   "Stock": "127531-W",
+   "Mileage": 40780,
+   "Year": 2024,
+   "Make": "Ford",
+   "Model": "Mustang",
+   "Body": "Convertible",
+   "GenericExtColor": "Yellow",
+   "Price": 38495
+ },
+ {
+   "Stock": "105658-B",
+   "Mileage": 75584,
+   "Year": 2019,
+   "Make": "Mercedes-Benz",
+   "Model": "A-Class",
+   "Body": "Hatchback",
+   "GenericExtColor": "Blue",
+   "Price": 28900
+ },
+ {
+   "Stock": "523834-W",
+   "Mileage": 65844,
+   "Year": 2024,
+   "Make": "Nissan",
+   "Model": "Kicks",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 25300
+ },
+ {
+   "Stock": "016519-A",
+   "Mileage": 73913,
+   "Year": 2017,
+   "Make": "Volkswagen",
+   "Model": "Tiguan",
+   "Body": "SUV",
+   "GenericExtColor": "Blue",
+   "Price": 23400
+ },
+ {
+   "Stock": "D63436-A",
+   "Mileage": 159983,
+   "Year": 2021,
+   "Make": "Ford",
+   "Model": "F-150",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Black",
+   "Price": 35900
+ },
+ {
+   "Stock": "C04772-W",
+   "Mileage": 93510,
+   "Year": 2019,
+   "Make": "Ford",
+   "Model": "Edge",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 19900
+ },
+ {
+   "Stock": "F28781-B",
+   "Mileage": 227492,
+   "Year": 2016,
+   "Make": "Ford",
+   "Model": "F-150",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Gray",
+   "Price": 26900
+ },
+ {
+   "Stock": "213430-A",
+   "Mileage": 211658,
+   "Year": 2018,
+   "Make": "Chevrolet",
+   "Model": "Silverado 1500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Black",
+   "Price": 31550
+ },
+ {
+   "Stock": "269765-W",
+   "Mileage": 64497,
+   "Year": 2023,
+   "Make": "Hyundai",
+   "Model": "Venue",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 23900
+ },
+ {
+   "Stock": "D62657-A",
+   "Mileage": 262312,
+   "Year": 2013,
+   "Make": "Ford",
+   "Model": "F-150",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Gray",
+   "Price": 19900
+ },
+ {
+   "Stock": "C65510-A",
+   "Mileage": 161269,
+   "Year": 2020,
+   "Make": "Ford",
+   "Model": "Super Duty F-350 DRW",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 63500
+ },
+ {
+   "Stock": "B55352-A",
+   "Mileage": 170112,
+   "Year": 2014,
+   "Make": "Ford",
+   "Model": "Super Duty F-350 SRW",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Gray",
+   "Price": 31900
+ },
+ {
+   "Stock": "244966-W",
+   "Mileage": 120797,
+   "Year": 2017,
+   "Make": "Chevrolet",
+   "Model": "Cruze",
+   "Body": "Sedan",
+   "GenericExtColor": "Silver",
+   "Price": 16180
+ },
+ {
+   "Stock": "B18293-T",
+   "Mileage": 161762,
+   "Year": 2019,
+   "Make": "Ford",
+   "Model": "Edge",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 19900
+ },
+ {
+   "Stock": "D58240-A",
+   "Mileage": 140132,
+   "Year": 2018,
+   "Make": "BMW",
+   "Model": "X3",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 27900
+ },
+ {
+   "Stock": "124539-A",
+   "Mileage": 226891,
+   "Year": 2017,
+   "Make": "GMC",
+   "Model": "Yukon",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 27900
+ },
+ {
+   "Stock": "351405-W",
+   "Mileage": 82006,
+   "Year": 2023,
+   "Make": "Toyota",
+   "Model": "RAV4",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 36299
+ },
+ {
+   "Stock": "131530-A",
+   "Mileage": 138000,
+   "Year": 2011,
+   "Make": "Audi",
+   "Model": "S4",
+   "Body": "Sedan",
+   "GenericExtColor": "Blue",
+   "Price": 15900
+ },
+ {
+   "Stock": "586715-A",
+   "Mileage": 142416,
+   "Year": 2015,
+   "Make": "Kia",
+   "Model": "Sorento",
+   "Body": "SUV",
+   "GenericExtColor": "Purple",
+   "Price": 16900
+ },
+ {
+   "Stock": "118410-A",
+   "Mileage": 105558,
+   "Year": 2021,
+   "Make": "Kia",
+   "Model": "Seltos",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 23360
+ },
+ {
+   "Stock": "996343-A",
+   "Mileage": 118842,
+   "Year": 2019,
+   "Make": "Hyundai",
+   "Model": "Tucson",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 19900
+ },
+ {
+   "Stock": "179243-C",
+   "Mileage": 84393,
+   "Year": 2016,
+   "Make": "Maserati",
+   "Model": "Ghibli",
+   "Body": "Sedan",
+   "GenericExtColor": "Black",
+   "Price": 30900
+ },
+ {
+   "Stock": "055882-C",
+   "Mileage": 116289,
+   "Year": 2020,
+   "Make": "Toyota",
+   "Model": "Corolla",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 26900
+ },
+ {
+   "Stock": "189858-A",
+   "Mileage": 142414,
+   "Year": 2019,
+   "Make": "Chevrolet",
+   "Model": "Equinox",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 19900
+ },
+ {
+   "Stock": "441725-C",
+   "Mileage": 17161,
+   "Year": 2023,
+   "Make": "Cadillac",
+   "Model": "Escalade",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 93900
+ },
+ {
+   "Stock": "584780-C",
+   "Mileage": 134578,
+   "Year": 2016,
+   "Make": "Land Rover",
+   "Model": "Range Rover Sport",
+   "Body": "SUV",
+   "GenericExtColor": "White",
+   "Price": 29900
+ },
+ {
+   "Stock": "L14003-C",
+   "Mileage": 222480,
+   "Year": 2013,
+   "Make": "Lincoln",
+   "Model": "MKX",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 9900
+ },
+ {
+   "Stock": "385993-A",
+   "Mileage": 236712,
+   "Year": 2014,
+   "Make": "Chevrolet",
+   "Model": "Silverado 1500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 23900
+ },
+ {
+   "Stock": "225495-W",
+   "Mileage": 80655,
+   "Year": 2021,
+   "Make": "Chevrolet",
+   "Model": "Spark",
+   "Body": "Hatchback",
+   "GenericExtColor": "Black",
+   "Price": 16900
+ },
+ {
+   "Stock": "056542-A",
+   "Mileage": 122660,
+   "Year": 2020,
+   "Make": "Kia",
+   "Model": "Soul",
+   "Body": "Hatchback",
+   "GenericExtColor": "White",
+   "Price": 17900
+ },
+ {
+   "Stock": "442087-C",
+   "Mileage": 150789,
+   "Year": 2019,
+   "Make": "Jeep",
+   "Model": "Cherokee",
+   "Body": "SUV",
+   "GenericExtColor": "Blue",
+   "Price": 21000
+ },
+ {
+   "Stock": "201033-T",
+   "Mileage": 92521,
+   "Year": 2020,
+   "Make": "Honda",
+   "Model": "Civic Si Sedan",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 25900
+ },
+ {
+   "Stock": "196084-C",
+   "Mileage": 183397,
+   "Year": 2018,
+   "Make": "Mazda",
+   "Model": "Mazda3 Sport",
+   "Body": "Hatchback",
+   "GenericExtColor": "White",
+   "Price": 14900
+ },
+ {
+   "Stock": "195395-W",
+   "Mileage": 82565,
+   "Year": 2024,
+   "Make": "GMC",
+   "Model": "Terrain",
+   "Body": "SUV",
+   "GenericExtColor": "Gray",
+   "Price": 31295
+ },
+ {
+   "Stock": "018546-W",
+   "Mileage": 89876,
+   "Year": 2020,
+   "Make": "Toyota",
+   "Model": "Corolla",
+   "Body": "Sedan",
+   "GenericExtColor": "White",
+   "Price": 25900
+ },
+ {
+   "Stock": "613092-W",
+   "Mileage": 57353,
+   "Year": 2024,
+   "Make": "Mitsubishi",
+   "Model": "Outlander",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 33900
+ },
+ {
+   "Stock": "424836-W",
+   "Mileage": 75821,
+   "Year": 2024,
+   "Make": "Toyota",
+   "Model": "RAV4",
+   "Body": "SUV",
+   "GenericExtColor": "Silver",
+   "Price": 37900
+ },
+ {
+   "Stock": "040569-T",
+   "Mileage": 183230,
+   "Year": 2017,
+   "Make": "Audi",
+   "Model": "Q7",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 23900
+ },
+ {
+   "Stock": "854991-W",
+   "Mileage": 78334,
+   "Year": 2024,
+   "Make": "Nissan",
+   "Model": "Versa",
+   "Body": "Sedan",
+   "GenericExtColor": "Red",
+   "Price": 22900
+ },
+ {
+   "Stock": "004145-W",
+   "Mileage": 136420,
+   "Year": 2019,
+   "Make": "Toyota",
+   "Model": "Corolla Hatchback",
+   "Body": "Hatchback",
+   "GenericExtColor": "Silver",
+   "Price": 21900
+ },
+ {
+   "Stock": "A10946-A",
+   "Mileage": 172250,
+   "Year": 2018,
+   "Make": "Ford",
+   "Model": "F-150",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Black",
+   "Price": 26900
+ },
+ {
+   "Stock": "D31706-A",
+   "Mileage": 124994,
+   "Year": 2022,
+   "Make": "Ford",
+   "Model": "Bronco Sport",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 25900
+ },
+ {
+   "Stock": "B45060-B",
+   "Mileage": 163620,
+   "Year": 2022,
+   "Make": "Ford",
+   "Model": "F-150",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "Black",
+   "Price": 35900
+ },
+ {
+   "Stock": "102286-T",
+   "Mileage": 264664,
+   "Year": 2009,
+   "Make": "Chevrolet",
+   "Model": "Silverado 1500",
+   "Body": "Pickup Truck",
+   "GenericExtColor": "White",
+   "Price": 9900
+ },
+ {
+   "Stock": "164491-B",
+   "Mileage": 173851,
+   "Year": 2017,
+   "Make": "Cadillac",
+   "Model": "XT5",
+   "Body": "SUV",
+   "GenericExtColor": "Black",
+   "Price": 19900
+ }
+]
